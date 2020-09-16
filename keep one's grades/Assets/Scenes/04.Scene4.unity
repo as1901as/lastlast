@@ -459,10 +459,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c06d83d424800784c93e30d1598e020e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: {x: 0, y: 0, z: 0}
-  b: {x: 0, y: 0, z: 0}
-  moveok: 0
-  d: 0
 --- !u!95 &143504550
 Animator:
   serializedVersion: 3
@@ -1023,8 +1019,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -691953227
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 49a4ee744bebf1e42bfd5d6eda174f02, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1068,8 +1064,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 922e0dfc9854dee4db7cf85d18eb0e4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: {x: 0, y: 0, z: 0}
-  count: 25
   count_text: {fileID: 1704283770}
 --- !u!61 &700393989
 BoxCollider2D:
@@ -1262,8 +1256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a39b4b38f17b43344a92ab334ce02642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveok: 0
-  d: 0
 --- !u!1 &903177181
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,10 +1401,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c06d83d424800784c93e30d1598e020e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: {x: 0, y: 0, z: 0}
-  b: {x: 0, y: 0, z: 0}
-  moveok: 0
-  d: 0
 --- !u!95 &903177187
 Animator:
   serializedVersion: 3
@@ -1576,8 +1564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a39b4b38f17b43344a92ab334ce02642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveok: 0
-  d: 0
 --- !u!1 &1128435258
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,8 +1823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a39b4b38f17b43344a92ab334ce02642, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveok: 0
-  d: 0
 --- !u!50 &1167427890
 Rigidbody2D:
   serializedVersion: 4
@@ -3106,10 +3090,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c06d83d424800784c93e30d1598e020e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: {x: 0, y: 0, z: 0}
-  b: {x: 0, y: 0, z: 0}
-  moveok: 0
-  d: 0
 --- !u!50 &1342456072
 Rigidbody2D:
   serializedVersion: 4
